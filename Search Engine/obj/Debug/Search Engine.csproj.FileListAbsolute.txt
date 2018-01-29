@@ -1,0 +1,11 @@
+c:\users\mctec\documents\visual studio 2017\Projects\Techcraft7 DLL Pack\Techcraft7 DLL Pack\bin\Debug\Techcraft7 DLL Pack.dll
+c:\users\mctec\documents\visual studio 2017\Projects\Techcraft7 DLL Pack\Techcraft7 DLL Pack\bin\Debug\Techcraft7 DLL Pack.pdb
+c:\users\mctec\documents\visual studio 2017\Projects\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\Techcraft7 DLL Pack.dll
+c:\users\mctec\documents\visual studio 2017\Projects\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\Techcraft7 DLL Pack.pdb
+C:\Users\mctec\Documents\Visual Studio 2017\Projects\Techcraft7 DLL Pack\Search Engine\obj\Debug\Search Engine.csprojResolveAssemblyReference.cache
+C:\Users\mctec\Documents\Visual Studio 2017\Projects\Techcraft7 DLL Pack\Search Engine\bin\Debug\Search Engine.dll
+C:\Users\mctec\Documents\Visual Studio 2017\Projects\Techcraft7 DLL Pack\Search Engine\bin\Debug\Search Engine.pdb
+C:\Users\mctec\Documents\Visual Studio 2017\Projects\Techcraft7 DLL Pack\Search Engine\obj\Debug\Search Engine.dll
+C:\Users\mctec\Documents\Visual Studio 2017\Projects\Techcraft7 DLL Pack\Search Engine\obj\Debug\Search Engine.pdb
+C:\Users\mctec\Documents\Visual Studio 2017\Projects\Techcraft7 DLL Pack\Search Engine\bin\Debug\ColorConsoleMethods.dll
+C:\Users\mctec\Documents\Visual Studio 2017\Projects\Techcraft7 DLL Pack\Search Engine\bin\Debug\ColorConsoleMethods.pdb

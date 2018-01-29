@@ -1,0 +1,5 @@
+C:\Users\mctec\Documents\Visual Studio 2017\Projects\Techcraft7 DLL Pack\ConsoleString\bin\Debug\ConsoleString.dll
+C:\Users\mctec\Documents\Visual Studio 2017\Projects\Techcraft7 DLL Pack\ConsoleString\bin\Debug\ConsoleString.pdb
+C:\Users\mctec\Documents\Visual Studio 2017\Projects\Techcraft7 DLL Pack\ConsoleString\obj\Debug\ConsoleString.csprojResolveAssemblyReference.cache
+C:\Users\mctec\Documents\Visual Studio 2017\Projects\Techcraft7 DLL Pack\ConsoleString\obj\Debug\ConsoleString.dll
+C:\Users\mctec\Documents\Visual Studio 2017\Projects\Techcraft7 DLL Pack\ConsoleString\obj\Debug\ConsoleString.pdb

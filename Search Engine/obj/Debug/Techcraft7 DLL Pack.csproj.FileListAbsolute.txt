@@ -1,0 +1,5 @@
+c:\users\mctec\documents\visual studio 2017\Projects\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\Techcraft7 DLL Pack.csprojResolveAssemblyReference.cache
+c:\users\mctec\documents\visual studio 2017\Projects\Techcraft7 DLL Pack\Techcraft7 DLL Pack\bin\Debug\Techcraft7 DLL Pack.dll
+c:\users\mctec\documents\visual studio 2017\Projects\Techcraft7 DLL Pack\Techcraft7 DLL Pack\bin\Debug\Techcraft7 DLL Pack.pdb
+c:\users\mctec\documents\visual studio 2017\Projects\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\Techcraft7 DLL Pack.dll
+c:\users\mctec\documents\visual studio 2017\Projects\Techcraft7 DLL Pack\Techcraft7 DLL Pack\obj\Debug\Techcraft7 DLL Pack.pdb

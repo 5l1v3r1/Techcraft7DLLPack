@@ -1,0 +1,5 @@
+C:\Users\mctec\Documents\Visual Studio 2017\Projects\Techcraft7 DLL Pack\ColorConsoleMethods\bin\Debug\ColorConsoleMethods.dll
+C:\Users\mctec\Documents\Visual Studio 2017\Projects\Techcraft7 DLL Pack\ColorConsoleMethods\bin\Debug\ColorConsoleMethods.pdb
+C:\Users\mctec\Documents\Visual Studio 2017\Projects\Techcraft7 DLL Pack\ColorConsoleMethods\obj\Debug\ColorConsoleMethods.csprojResolveAssemblyReference.cache
+C:\Users\mctec\Documents\Visual Studio 2017\Projects\Techcraft7 DLL Pack\ColorConsoleMethods\obj\Debug\ColorConsoleMethods.dll
+C:\Users\mctec\Documents\Visual Studio 2017\Projects\Techcraft7 DLL Pack\ColorConsoleMethods\obj\Debug\ColorConsoleMethods.pdb

@@ -1,0 +1,12 @@
+C:\Users\mctec\OneDrive\Softwarez\Techcraft7 DLL Pack\SearchTextBoxWPF\obj\Debug\SearchTextBoxWPF.csprojResolveAssemblyReference.cache
+C:\Users\mctec\OneDrive\Softwarez\Techcraft7 DLL Pack\SearchTextBoxWPF\obj\Debug\UserControl1.g.cs
+C:\Users\mctec\OneDrive\Softwarez\Techcraft7 DLL Pack\SearchTextBoxWPF\obj\Debug\SearchTextBoxWPF_MarkupCompile.cache
+C:\Users\mctec\OneDrive\Softwarez\Techcraft7 DLL Pack\SearchTextBoxWPF\obj\Debug\SearchTextBoxWPF_MarkupCompile.lref
+C:\Users\mctec\OneDrive\Softwarez\Techcraft7 DLL Pack\SearchTextBoxWPF\bin\Debug\SearchTextBoxWPF.dll
+C:\Users\mctec\OneDrive\Softwarez\Techcraft7 DLL Pack\SearchTextBoxWPF\bin\Debug\SearchTextBoxWPF.pdb
+C:\Users\mctec\OneDrive\Softwarez\Techcraft7 DLL Pack\SearchTextBoxWPF\obj\Debug\UserControl1.baml
+C:\Users\mctec\OneDrive\Softwarez\Techcraft7 DLL Pack\SearchTextBoxWPF\obj\Debug\SearchTextBoxWPF.g.resources
+C:\Users\mctec\OneDrive\Softwarez\Techcraft7 DLL Pack\SearchTextBoxWPF\obj\Debug\SearchTextBoxWPF.Properties.Resources.resources
+C:\Users\mctec\OneDrive\Softwarez\Techcraft7 DLL Pack\SearchTextBoxWPF\obj\Debug\SearchTextBoxWPF.csproj.GenerateResource.Cache
+C:\Users\mctec\OneDrive\Softwarez\Techcraft7 DLL Pack\SearchTextBoxWPF\obj\Debug\SearchTextBoxWPF.dll
+C:\Users\mctec\OneDrive\Softwarez\Techcraft7 DLL Pack\SearchTextBoxWPF\obj\Debug\SearchTextBoxWPF.pdb

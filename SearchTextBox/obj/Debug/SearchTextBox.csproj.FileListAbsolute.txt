@@ -1,0 +1,14 @@
+C:\Users\mctec\Documents\Visual Studio 2017\Projects\Techcraft7 DLL Pack\SearchTextBox\obj\Debug\SearchTextBox.csprojResolveAssemblyReference.cache
+C:\Users\mctec\Documents\Visual Studio 2017\Projects\Techcraft7 DLL Pack\SearchTextBox\obj\Debug\SearchTextBox.SearchTextBox.resources
+C:\Users\mctec\Documents\Visual Studio 2017\Projects\Techcraft7 DLL Pack\SearchTextBox\obj\Debug\SearchTextBox.csproj.GenerateResource.Cache
+C:\Users\mctec\Documents\Visual Studio 2017\Projects\Techcraft7 DLL Pack\SearchTextBox\bin\Debug\SearchTextBox.dll
+C:\Users\mctec\Documents\Visual Studio 2017\Projects\Techcraft7 DLL Pack\SearchTextBox\bin\Debug\SearchTextBox.pdb
+C:\Users\mctec\Documents\Visual Studio 2017\Projects\Techcraft7 DLL Pack\SearchTextBox\obj\Debug\SearchTextBox.dll
+C:\Users\mctec\Documents\Visual Studio 2017\Projects\Techcraft7 DLL Pack\SearchTextBox\obj\Debug\SearchTextBox.pdb
+C:\Users\mctec\OneDrive\Softwarez\Techcraft7 DLL Pack\SearchTextBox\bin\Debug\SearchTextBox.dll
+C:\Users\mctec\OneDrive\Softwarez\Techcraft7 DLL Pack\SearchTextBox\bin\Debug\SearchTextBox.pdb
+C:\Users\mctec\OneDrive\Softwarez\Techcraft7 DLL Pack\SearchTextBox\obj\Debug\SearchTextBox.csprojResolveAssemblyReference.cache
+C:\Users\mctec\OneDrive\Softwarez\Techcraft7 DLL Pack\SearchTextBox\obj\Debug\SearchTextBox.SearchTextBox.resources
+C:\Users\mctec\OneDrive\Softwarez\Techcraft7 DLL Pack\SearchTextBox\obj\Debug\SearchTextBox.csproj.GenerateResource.Cache
+C:\Users\mctec\OneDrive\Softwarez\Techcraft7 DLL Pack\SearchTextBox\obj\Debug\SearchTextBox.dll
+C:\Users\mctec\OneDrive\Softwarez\Techcraft7 DLL Pack\SearchTextBox\obj\Debug\SearchTextBox.pdb

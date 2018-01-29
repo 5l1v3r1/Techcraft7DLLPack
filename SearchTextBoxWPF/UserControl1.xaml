@@ -1,0 +1,14 @@
+﻿<UserControl x:Class="SearchTextBoxWPF.SearchTextBoxWPF"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SearchTextBoxWPF"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid MinWidth="150">
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="204" RenderTransformOrigin="0.25,0.303" TextChanged="textbox_TextChanged"/>
+        <Label x:Name="label1" Content="Results:" HorizontalAlignment="Left" Height="49" Margin="10,35,0,0" VerticalAlignment="Top" Width="95" RenderTransformOrigin="0.344,0.495"/>
+
+    </Grid>
+</UserControl>
