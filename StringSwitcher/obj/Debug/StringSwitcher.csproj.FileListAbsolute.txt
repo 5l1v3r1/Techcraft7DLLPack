@@ -1,0 +1,7 @@
+C:\Users\mctec\OneDrive\Softwarez\Techcraft7 DLL Pack\StringSwitcher\bin\Debug\StringSwitcher.dll
+C:\Users\mctec\OneDrive\Softwarez\Techcraft7 DLL Pack\StringSwitcher\bin\Debug\StringSwitcher.pdb
+C:\Users\mctec\OneDrive\Softwarez\Techcraft7 DLL Pack\StringSwitcher\obj\Debug\StringSwitcher.dll
+C:\Users\mctec\OneDrive\Softwarez\Techcraft7 DLL Pack\StringSwitcher\obj\Debug\StringSwitcher.pdb
+C:\Users\mctec\OneDrive\Softwarez\Techcraft7 DLL Pack\StringSwitcher\obj\Debug\StringSwitcher.csprojResolveAssemblyReference.cache
+C:\Users\mctec\OneDrive\Softwarez\Techcraft7 DLL Pack\StringSwitcher\bin\Debug\ColorConsoleMethods.dll
+C:\Users\mctec\OneDrive\Softwarez\Techcraft7 DLL Pack\StringSwitcher\bin\Debug\ColorConsoleMethods.pdb

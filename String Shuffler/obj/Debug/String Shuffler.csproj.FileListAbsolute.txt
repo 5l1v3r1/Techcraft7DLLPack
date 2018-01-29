@@ -1,0 +1,7 @@
+C:\Users\mctec\documents\visual studio 2017\Projects\Techcraft7 DLL Pack\String Shuffler\bin\Debug\String Shuffler.dll
+C:\Users\mctec\documents\visual studio 2017\Projects\Techcraft7 DLL Pack\String Shuffler\bin\Debug\String Shuffler.pdb
+C:\Users\mctec\documents\visual studio 2017\Projects\Techcraft7 DLL Pack\String Shuffler\obj\Debug\String Shuffler.dll
+C:\Users\mctec\documents\visual studio 2017\Projects\Techcraft7 DLL Pack\String Shuffler\obj\Debug\String Shuffler.pdb
+C:\Users\mctec\Documents\Visual Studio 2017\Projects\Techcraft7 DLL Pack\String Shuffler\obj\Debug\String Shuffler.csprojResolveAssemblyReference.cache
+C:\Users\mctec\Documents\Visual Studio 2017\Projects\Techcraft7 DLL Pack\String Shuffler\obj\Debug\String_Shuffler.resources.resources
+C:\Users\mctec\Documents\Visual Studio 2017\Projects\Techcraft7 DLL Pack\String Shuffler\obj\Debug\String Shuffler.csproj.GenerateResource.Cache
